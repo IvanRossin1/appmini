@@ -1,9 +1,9 @@
 import React from 'react'
 
-const principal = () => {
+const Principal = () => {
   return (
-    <div>principal</div>
+    <div>Principal</div>
   )
 }
 
-export default principal
+export default Principal

@@ -1,9 +1,9 @@
 import React from 'react'
 
-const buscador = () => {
+const Buscador = () => {
   return (
-    <div>buscador</div>
+    <div>Buscador</div>
   )
 }
 
-export default buscador
+export default Buscador

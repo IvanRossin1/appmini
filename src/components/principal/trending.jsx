@@ -1,9 +1,9 @@
 import React from 'react'
 
-const trending = () => {
+const Trending = () => {
   return (
-    <div>trending</div>
+    <div>Trending</div>
   )
 }
 
-export default trending
+export default Trending
